@@ -1,4 +1,4 @@
--- Queries taken from project portfolio specifically to be used on Tableau
+-- Queries taken from the Main SQL and altered so as to be used for visualization via Tableau
 
 -- Tableau Query 1
 
